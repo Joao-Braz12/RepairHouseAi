@@ -1,13 +1,12 @@
-package dev.joaobraz12.RepairHouseAi.controller;
+package dev.joaobraz12.RepairHouseAi.Tool.controller;
 
 
-import dev.joaobraz12.RepairHouseAi.model.ToolItem;
-import dev.joaobraz12.RepairHouseAi.service.ToolItemService;
+import dev.joaobraz12.RepairHouseAi.Tool.model.ToolItem;
+import dev.joaobraz12.RepairHouseAi.Tool.service.ToolItemService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import javax.tools.Tool;
 import java.util.List;
 import java.util.Optional;
 

@@ -1,7 +1,7 @@
-package dev.joaobraz12.RepairHouseAi.service;
+package dev.joaobraz12.RepairHouseAi.Tool.service;
 
-import dev.joaobraz12.RepairHouseAi.model.ToolItem;
-import dev.joaobraz12.RepairHouseAi.repository.ToolItemRepository;
+import dev.joaobraz12.RepairHouseAi.Tool.model.ToolItem;
+import dev.joaobraz12.RepairHouseAi.Tool.repository.ToolItemRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

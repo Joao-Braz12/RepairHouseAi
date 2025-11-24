@@ -1,4 +1,4 @@
-package dev.joaobraz12.RepairHouseAi.model;
+package dev.joaobraz12.RepairHouseAi.Tool.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
